@@ -22,3 +22,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Based on
+
+[Reference](https://blog.logrocket.com/build-deploy-vue-js-app-github-pages/)
